@@ -1,4 +1,4 @@
-# System-Software-Asignment1
+# System-Software-Assignment1
 SS Assignment Solution of File Management and Process Management
 
 File Management: 1 to 18
