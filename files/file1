@@ -1,0 +1,13 @@
+List of Operating Systems Lab Exercises
+1. Creating Different File Types: Utilize both shell commands and system calls to create
+the following types of files:
+a. soft link (using the symlink system call)
+b. hard link (using the link system call)
+c. FIFO (using either the mkfifo Library Function or the mknod system call)
+2. Background Process Exploration: Develop a simple program to execute indefinitely in
+the background. Traverse the /proc directory and extract relevant process information
+from the corresponding proc directories.
+3. File Creation and Descriptor Printing: Write a program that creates a file and prints its
+file descriptor value using the creat() system call.
+4. Opening Existing File: Write a program to open an existing file in read-write mode.
+Experiment with the O_EXCL flag.
